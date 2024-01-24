@@ -23,5 +23,15 @@
             "room_number": "C101",
             "teacher_name": "Ms. Smith"
         }
+    ],
+    "SamSchedule":[
+        {
+            "days": ["Monday", "Wednesday", "Thursday", "Friday"],
+            "class_name": "Cooking",
+            "room_number": "C101",
+            "teacher_name": "Ms. Smith"
+        },
+        
     ]
+
 }
